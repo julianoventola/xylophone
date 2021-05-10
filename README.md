@@ -1,16 +1,29 @@
-# xylophone
+# Xylophone App - [![Flutter](https://img.shields.io/badge/Flutter-dart-white?labelColor=blue&style=flat&link=https://flutter.dev/)](https://flutter.dev/)
 
-A new Flutter project.
+<h1 align="center">
+  <p>🎼🎵Xylophone App made with Flutter🎵🎼</p>
+  <img width="427" src= "./Xylophonegif.gif">
+</h1>
+
+# Features
+
+- Single page to play "musical notes" for each button
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone the repository
+- run in cmd:
+  ```cmd
+  flutter pub get
+  flutter run
+  ```
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencieis
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Lib          | Link                                                 |
+| ------------ | ---------------------------------------------------- |
+| audioplayers | [Audio Cache](https://pub.dev/packages/audioplayers) |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Device
+
+- Tested in Pixel 4 - Android 11
